@@ -1,6 +1,7 @@
+
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=26&center=true&vCenter=true&width=600&lines=Sujoy+Banik;AI+Assistant+%7C+Python+Developer;Building+Smart+Solutions+with+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=26&center=true&vCenter=true&width=600&lines=Sujoy+Banik;AI+Assistant+%7C+Python+programmer;Building+Smart+Solutions+with+AI" />
 </p>
 
 <h1 align="center">Sujoy Banik</h1>
