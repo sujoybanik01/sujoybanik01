@@ -5,7 +5,7 @@
 
 <h1 align="center">Sujoy Banik</h1>
 <p align="center">
-  <strong>AI Assistant • AI Enthusiast • Python Developer</strong>
+  <strong>AI Assistant • AI Enthusiast • Python programming</strong>
 </p>
 
 ---
